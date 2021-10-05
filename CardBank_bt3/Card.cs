@@ -35,7 +35,7 @@ public class Card {
     }
     public virtual void OpenCard() {}
     public virtual void Pay(decimal cost, float percentPromotion = 0) {}
-    public virtual void Tranfer(decimal amount, Card c) {}
+    public virtual void Tranfer(decimal amount, ref Card c) {}
     public void InforCard() {
         Console.WriteLine("\n================");
         Console.WriteLine($"Type: {this.nameCard}");

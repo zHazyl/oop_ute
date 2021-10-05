@@ -11,11 +11,11 @@ namespace CardBank_bt3
             c1.InforCard();
             c2.InforCard();
             c1.OpenCard();
-            c1.Pay(1_00_000_000);
-            c1.Tranfer(200_000_000, c2);
+            c1.Pay(1_000_000_000);
+            c1.Tranfer(200_000_000, ref c2);
             c2.OpenCard();
             c2.Pay(200_000_000);
-            c2.Tranfer(200_000_000, c1);
+            c2.Tranfer(200_000_000, ref c1);
             c2.InforCard();
             c1.InforCard();
             Console.Read();

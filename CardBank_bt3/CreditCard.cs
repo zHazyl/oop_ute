@@ -53,7 +53,7 @@ public class CreditCard : Card {
             }
         }
     }
-    public override void Tranfer(decimal amount, Card c) {
+    public override void Tranfer(decimal amount, ref Card c) {
         Console.WriteLine("You can't tranfer"); // ko dc chuyen khoan
     }
     public string Type {
