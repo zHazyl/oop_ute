@@ -33,7 +33,7 @@ public class Card {
     public void ReceiveMoney(decimal amount) {
         this.balance += amount;
     }
-    public virtual void OpenCard() {}
+    public virtual void OpenCard(decimal income = 0) {}
     public virtual void Pay(decimal cost, float percentPromotion = 0) {}
     public virtual void Tranfer(decimal amount, ref Card c) {}
     public void InforCard() {

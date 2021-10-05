@@ -3,13 +3,14 @@ using System;
 public class DebitCard : Card {
     public DebitCard() : base() {}
     public DebitCard(string id, string name, decimal balance) : base(id, name, balance) {}
-    public override void OpenCard() {
+    public override void OpenCard(decimal income = 0) {
         this.status = "Available";
         this.nameCard = "Debit Card";
         Console.WriteLine("This card is AVAILABLE");
     }
+    public bool IsApplyPromotion() {return false;}
     public override void Pay(decimal cost, float percentPromotion = 0) {
-        percentPromotion = 0; // ko ap dung khuyen mai
+        if (!this.IsApplyPromotion()) {percentPromotion = 0;} // ko ap dung khuyen mai
         decimal afterPay = this.balance - cost;
         if (afterPay < 0) {
             Console.WriteLine("You can't pay it");

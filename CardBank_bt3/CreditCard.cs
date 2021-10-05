@@ -7,24 +7,21 @@ public enum CardType {
 
 public class CreditCard : Card {
     private string type;
-    private decimal income;
     
     public CreditCard() : base() {
         this.type = "";
-        this.income = 0M;
     }
-    public CreditCard(decimal income, string id, string name, decimal balance) : base(id, name, balance) {
+    public CreditCard(string id, string name, decimal balance) : base(id, name, balance) {
         this.type = "";
-        this.income = income;
     }
-    public override void OpenCard()
+    public override void OpenCard(decimal income = 0)
     {
-        if (this.income >= (decimal)CardType.Gold) {
+        if (income >= (decimal)CardType.Gold) {
             this.type = "Gold";
             this.nameCard = this.type + " Credit card";
             this.status = "Available";
             Console.WriteLine("This card is AVAILABLE");
-        } else if (this.income >= (decimal)CardType.Standard) {
+        } else if (income >= (decimal)CardType.Standard) {
             this.type = "Standard";
             this.nameCard = this.type + " Credit card";
             this.status = "Available";
@@ -34,8 +31,10 @@ public class CreditCard : Card {
             Console.WriteLine("You can't open this card");
         }
     }
+    public bool IsApplyPromotion() {return true;}
     public override void Pay(decimal cost, float percentPromotion = 0) // ap dung khuyen mai
     {
+        if (!this.IsApplyPromotion()) {percentPromotion = 0;}
         decimal afterBuy = this.balance - cost * (1 - (decimal)percentPromotion);
         if (this.type == "Gold") {
             if (afterBuy < -50_000_000) {  // chi truoc tra sau
