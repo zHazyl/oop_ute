@@ -1,0 +1,16 @@
+D:\my_start\C#\oop_ute\CardBank_bt3\bin\Debug\net5.0\CardBank_bt3.exe
+D:\my_start\C#\oop_ute\CardBank_bt3\bin\Debug\net5.0\CardBank_bt3.deps.json
+D:\my_start\C#\oop_ute\CardBank_bt3\bin\Debug\net5.0\CardBank_bt3.runtimeconfig.json
+D:\my_start\C#\oop_ute\CardBank_bt3\bin\Debug\net5.0\CardBank_bt3.runtimeconfig.dev.json
+D:\my_start\C#\oop_ute\CardBank_bt3\bin\Debug\net5.0\CardBank_bt3.dll
+D:\my_start\C#\oop_ute\CardBank_bt3\bin\Debug\net5.0\ref\CardBank_bt3.dll
+D:\my_start\C#\oop_ute\CardBank_bt3\bin\Debug\net5.0\CardBank_bt3.pdb
+D:\my_start\C#\oop_ute\CardBank_bt3\obj\Debug\net5.0\CardBank_bt3.csproj.AssemblyReference.cache
+D:\my_start\C#\oop_ute\CardBank_bt3\obj\Debug\net5.0\CardBank_bt3.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_start\C#\oop_ute\CardBank_bt3\obj\Debug\net5.0\CardBank_bt3.AssemblyInfoInputs.cache
+D:\my_start\C#\oop_ute\CardBank_bt3\obj\Debug\net5.0\CardBank_bt3.AssemblyInfo.cs
+D:\my_start\C#\oop_ute\CardBank_bt3\obj\Debug\net5.0\CardBank_bt3.csproj.CoreCompileInputs.cache
+D:\my_start\C#\oop_ute\CardBank_bt3\obj\Debug\net5.0\CardBank_bt3.dll
+D:\my_start\C#\oop_ute\CardBank_bt3\obj\Debug\net5.0\ref\CardBank_bt3.dll
+D:\my_start\C#\oop_ute\CardBank_bt3\obj\Debug\net5.0\CardBank_bt3.pdb
+D:\my_start\C#\oop_ute\CardBank_bt3\obj\Debug\net5.0\CardBank_bt3.genruntimeconfig.cache

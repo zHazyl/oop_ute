@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CardBank_bt3/1.0.0": {
+        "runtime": {
+          "CardBank_bt3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CardBank_bt3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

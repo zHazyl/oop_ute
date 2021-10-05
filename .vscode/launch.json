@@ -10,11 +10,11 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/bin/Debug/net5.0/bt2.dll",
+            "program": "${workspaceFolder}/CardBank_bt3/bin/Debug/net5.0/CardBank_bt3.dll",
             "args": [],
-            "cwd": "${workspaceFolder}",
+            "cwd": "${workspaceFolder}/CardBank_bt3",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "externalTerminal",
+            "console": "internalConsole",
             "stopAtEntry": false
         },
         {
