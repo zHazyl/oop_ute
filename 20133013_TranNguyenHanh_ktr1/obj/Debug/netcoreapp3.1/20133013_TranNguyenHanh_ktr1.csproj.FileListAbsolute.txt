@@ -1,0 +1,13 @@
+D:\my_start\C#\oop_spkt\20133013_TranNguyenHanh_ktr1\bin\Debug\netcoreapp3.1\20133013_TranNguyenHanh_ktr1.exe
+D:\my_start\C#\oop_spkt\20133013_TranNguyenHanh_ktr1\bin\Debug\netcoreapp3.1\20133013_TranNguyenHanh_ktr1.deps.json
+D:\my_start\C#\oop_spkt\20133013_TranNguyenHanh_ktr1\bin\Debug\netcoreapp3.1\20133013_TranNguyenHanh_ktr1.runtimeconfig.json
+D:\my_start\C#\oop_spkt\20133013_TranNguyenHanh_ktr1\bin\Debug\netcoreapp3.1\20133013_TranNguyenHanh_ktr1.runtimeconfig.dev.json
+D:\my_start\C#\oop_spkt\20133013_TranNguyenHanh_ktr1\bin\Debug\netcoreapp3.1\20133013_TranNguyenHanh_ktr1.dll
+D:\my_start\C#\oop_spkt\20133013_TranNguyenHanh_ktr1\bin\Debug\netcoreapp3.1\20133013_TranNguyenHanh_ktr1.pdb
+D:\my_start\C#\oop_spkt\20133013_TranNguyenHanh_ktr1\obj\Debug\netcoreapp3.1\20133013_TranNguyenHanh_ktr1.csprojAssemblyReference.cache
+D:\my_start\C#\oop_spkt\20133013_TranNguyenHanh_ktr1\obj\Debug\netcoreapp3.1\20133013_TranNguyenHanh_ktr1.AssemblyInfoInputs.cache
+D:\my_start\C#\oop_spkt\20133013_TranNguyenHanh_ktr1\obj\Debug\netcoreapp3.1\20133013_TranNguyenHanh_ktr1.AssemblyInfo.cs
+D:\my_start\C#\oop_spkt\20133013_TranNguyenHanh_ktr1\obj\Debug\netcoreapp3.1\20133013_TranNguyenHanh_ktr1.csproj.CoreCompileInputs.cache
+D:\my_start\C#\oop_spkt\20133013_TranNguyenHanh_ktr1\obj\Debug\netcoreapp3.1\20133013_TranNguyenHanh_ktr1.dll
+D:\my_start\C#\oop_spkt\20133013_TranNguyenHanh_ktr1\obj\Debug\netcoreapp3.1\20133013_TranNguyenHanh_ktr1.pdb
+D:\my_start\C#\oop_spkt\20133013_TranNguyenHanh_ktr1\obj\Debug\netcoreapp3.1\20133013_TranNguyenHanh_ktr1.genruntimeconfig.cache

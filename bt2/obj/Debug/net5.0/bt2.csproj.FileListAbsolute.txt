@@ -1,0 +1,16 @@
+D:\my_start\C#\oop_spkt\bt2\bin\Debug\net5.0\bt2.exe
+D:\my_start\C#\oop_spkt\bt2\bin\Debug\net5.0\bt2.deps.json
+D:\my_start\C#\oop_spkt\bt2\bin\Debug\net5.0\bt2.runtimeconfig.json
+D:\my_start\C#\oop_spkt\bt2\bin\Debug\net5.0\bt2.runtimeconfig.dev.json
+D:\my_start\C#\oop_spkt\bt2\bin\Debug\net5.0\bt2.dll
+D:\my_start\C#\oop_spkt\bt2\bin\Debug\net5.0\ref\bt2.dll
+D:\my_start\C#\oop_spkt\bt2\bin\Debug\net5.0\bt2.pdb
+D:\my_start\C#\oop_spkt\bt2\obj\Debug\net5.0\bt2.csproj.AssemblyReference.cache
+D:\my_start\C#\oop_spkt\bt2\obj\Debug\net5.0\bt2.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_start\C#\oop_spkt\bt2\obj\Debug\net5.0\bt2.AssemblyInfoInputs.cache
+D:\my_start\C#\oop_spkt\bt2\obj\Debug\net5.0\bt2.AssemblyInfo.cs
+D:\my_start\C#\oop_spkt\bt2\obj\Debug\net5.0\bt2.csproj.CoreCompileInputs.cache
+D:\my_start\C#\oop_spkt\bt2\obj\Debug\net5.0\bt2.dll
+D:\my_start\C#\oop_spkt\bt2\obj\Debug\net5.0\ref\bt2.dll
+D:\my_start\C#\oop_spkt\bt2\obj\Debug\net5.0\bt2.pdb
+D:\my_start\C#\oop_spkt\bt2\obj\Debug\net5.0\bt2.genruntimeconfig.cache
