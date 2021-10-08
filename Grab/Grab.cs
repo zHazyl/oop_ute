@@ -19,21 +19,21 @@ class Grab
         this.priceAfter = pa;
         this.timeOrder = to;
     }
-    public void Infor() {
-        WriteLine($"Type: {this.type}");
-        WriteLine($"Price first: {this.priceFirst:C}");
-        WriteLine($"Price After: {this.priceAfter:C}");
-        WriteLine($"Time Order before: {this.timeOrder} day");
-    }
     public virtual decimal Pay(double km, bool isHolyday) {
         if (km <= 1) {
-            return km * this.priceFirst;
+            return this.priceFirst;
         }
         if (isHolyday)
         {
             return (km - 1) * this.priceAfter;
         }
         return this.priceFirst + (km - 1) * this.priceAfter;
+    }
+    public void Infor() {
+        WriteLine($"Type: {this.type}");
+        WriteLine($"Price first: {this.priceFirst:C}");
+        WriteLine($"Price After: {this.priceAfter:C}");
+        WriteLine($"Time Order before: {this.timeOrder} day");
     }
     ~Grab() {}
 }
